@@ -23,4 +23,4 @@ jobs:
           plugin_notable_repositories: yes
           plugin_reactions: yes
           plugin_reactions_details: count, percentage
-          plugin_lines: yes
+          plugin_achievements: yes
