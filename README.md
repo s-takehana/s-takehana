@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://github.com/s-takehana/s-takehana/blob/main/github-metrics.svg)
 
 <!--
 **s-takehana/s-takehana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
