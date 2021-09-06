@@ -24,3 +24,4 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_details: count, percentage
           plugin_achievements: yes
+          plugin_achievements_secrets: yes
