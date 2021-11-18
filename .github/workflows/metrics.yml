@@ -22,8 +22,8 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_notable: yes
-          plugin_notable_from: all
           plugin_notable_repositories: yes
+          plugin_notable_indepth: yes
           plugin_reactions: yes
           plugin_reactions_details: count, percentage
           plugin_achievements: yes
